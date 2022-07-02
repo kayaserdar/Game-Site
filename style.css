@@ -1,0 +1,197 @@
+body{
+    background-color: aquamarine;
+    margin: 0;
+}
+
+.ustmenu{
+    width: 100%;
+    height: 75px;
+    background-color: #2e2ee6;
+    position: fixed;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.sol{
+    width: 50%;
+    height: 75px;
+    float: left;
+    
+}
+.sag{
+    
+    height: 75px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 8px;
+    font-size: 20px;
+    
+   
+    
+}
+
+.logo{
+    padding-top: 15px;
+    padding-left: 50px;
+    font-size: 35px;
+    color: white;
+    font-family: 'Roboto Slab', serif;
+    
+}
+.banner{
+    width: 100%;
+    height: 800px;
+    background-color:#f5f5f5;
+}
+.about{
+    margin-top:0;
+    width: 100%;
+    height: 400px;
+    background-color: #ffffff;
+}
+
+.baslik{
+    padding-top: 150px;
+    text-align:center;
+    font-size: 50px;
+    font-family: 'Roboto Slab', serif;
+}
+.baslikk{
+    padding-top: 270px;
+    text-align:center;
+    font-size: 50px;
+    font-family: 'Roboto Slab', serif;
+}
+.yazi1{
+    font-size: 15px;
+    padding-top: 25px;
+}
+.game{
+    width: 100%;
+    height: 800px;
+    background-color: #f5f5f5;
+}
+
+.oyun-sol{
+    width: 50%;
+    height: 800px;
+    float: left;
+}
+
+.oyun-sag{
+    
+   
+    width: 50%;
+    height: 800px;
+    float: right;   
+   
+   
+  
+}
+.photo{
+    padding-top: 40px;
+    padding-left: 300px;
+}
+
+.download{
+    width: 550px;
+    height: 200px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+.bir{
+    float: left;
+}
+.iki{
+    float: left;
+}
+.kariyer{
+    width: 100%;
+    height: 900px;
+    background-color: #ffffff;
+}
+
+.kariyer-sol{
+    width: 50%;
+    height: 900px;
+    float: left;
+}
+
+.kariyer-sag{  
+    width: 50%;
+    height: 900px;
+    float: right;    
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Roboto Slab', serif;
+   
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding:12px 14px;  
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li {
+    float: left;  
+}
+
+li a {
+    display: block;
+    padding:12px 16px;
+    margin: 5px;
+    border-radius: 10px;
+    color:white;
+    text-decoration:none; 
+}
+li a:hover{
+    background-color:#1a1ada; 
+    border-radius: 60px;
+}
+
+.kariyerfoto{
+    float: left;
+    padding-left: 300px;
+    padding-top: 300px;
+}
+
+.kariyerbaslik{
+    padding-top: 350px;
+    text-align:center;
+    font-size: 50px;
+    font-family: 'Roboto Slab', serif;
+}
+.buton {
+    width: 160px;
+    height: 50px;
+    float: right;
+    border-radius: 50px;
+    padding-top: 25px;
+    margin-top: 30px;
+    margin-right: 400px;
+    color: white;
+    background-color:#1a1ada; 
+    font-size: 15px;
+}
+
+
+
